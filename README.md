@@ -59,26 +59,6 @@ The application follows a modular agent-based workflow:
 
 ---
 
-## 📷 Screenshots
-
-### Dashboard
-
-*(Add screenshot here)*
-
-### Sales Analytics
-
-*(Add screenshot here)*
-
-### Inventory Analysis
-
-*(Add screenshot here)*
-
-### AI Business Assistant
-
-*(Add screenshot here)*
-
----
-
 ## ⚙️ Tech Stack
 
 | Technology | Purpose |
