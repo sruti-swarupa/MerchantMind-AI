@@ -223,9 +223,23 @@ MerchantMind AI enables local merchants to:
 
 ---
 
-## 📹 Demo
+## 📷Screenshots
 
-**Live Demo:** *(Add your deployed Streamlit link here)*
+### Dataset preview
+![Dataset preview](docs/screenshots/Screenshot 2026-07-06 212819.png)
+
+### Sales analytics
+![Sales analytics](docs/screenshots/Screenshot 2026-07-06 212854.png)
+
+### Inventory View
+![Inventory](docs/screenshots/Screenshot 2026-07-06 212614.png)
+
+### Products sold by category(Bar Chart)
+![Graph](docs/screenshots/Screenshot 2026-07-06 212954.png)
+
+### Revenue(Graph)
+![Graph](docs/screenshots/Screenshot 2026-07-06 213105.png)
+## 📹 Demo
 
 **Video Demonstration:** *(Add your YouTube link here)*
 
