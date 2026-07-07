@@ -205,7 +205,7 @@ MerchantMind AI enables local merchants to:
 
 ## 📹 Demo
 
-**Video Demonstration:** *(Add your YouTube link here)*
+**Video Demonstration:** *https://youtu.be/AvBz2YolOSY?si=s9lrs78U4rrMjpyB*
 
 ---
 
